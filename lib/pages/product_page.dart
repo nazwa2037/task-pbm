@@ -554,7 +554,7 @@ class _ProductPageState extends State<ProductPage>
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       const Text(
-                        'Draft Produkku',
+                        'Draft Produk',
                         style: TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.w700,
